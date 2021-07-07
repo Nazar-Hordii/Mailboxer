@@ -17,12 +17,8 @@
 
 ## 📌 Introduction
 
-The project, ***Inboxer*** has been designed as an Account Management System using C++ that allows users to manage their accounts, communicate with other users, view list of received, sent, deleted, starred messages and to search for messages sent to/ received from a user.
+The project, ***Mailboxer*** has been designed as an Account Management System using C++ that allows users to manage their accounts, communicate with other users, view list of received, sent, deleted, starred messages and to search for messages sent to/ received from a user.
 <br>
-
-
-<br><br>
-
 ## ⭐ Features 
 1. Data structures used: Doubly linked list to store user accounts and two singly linked list per user to store sent and received messages. <br>
 2. User can create an account, login and send a message to another existing user. <br>
